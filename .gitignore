@@ -25,3 +25,12 @@ cards-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# Erlang
+*.beam
+
+# Secret Config
+/config/*.secret.exs
+
+#VS Code
+.elixir_ls/
